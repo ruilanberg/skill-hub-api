@@ -1,34 +1,22 @@
 {
   "announcement": [
     {
-      "id": 1,
-      "title": "Service 1",
-      "description": "Pão, bife de hambúrguer 90g, salada e batata.",
-      "contact": "email@test.com"
+      "title": "Preciso de pedreiro",
+      "description": "Preciso de pedreiro pra fazer um muro de bloco 6 metros",
+      "contact": "55 99117-6683",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Service 2",
-      "description": "Pão, bife de hambúrguer 90g, salada e batata.",
-      "contact": "559915445"
+      "title": "Procuro ajudante de pintor",
+      "description": "Trabalhar com pintura geral",
+      "contact": "55 99132-5564",
+      "id": 2
     },
     {
-      "title": "Service 3",
-      "description": "demo2",
-      "contact": "demo2",
-      "id": 3
-    },
-    {
-      "title": "Service 3",
-      "description": "demo2",
-      "contact": "demo2",
-      "id": 4
-    },
-    {
-      "id": 5,
-      "title": "tejsdffjbsdjf",
-      "description": "ksdfnjkzdnsfjk",
-      "contact": "ksjfdikhdsfjk"
+      "id": 3,
+      "title": "Preciso de ajudante de pedreiro",
+      "description": "Preciso de ajudante de pedreiro, serviços gerais,para trabalhar no quartel de Ijuí. Inclui café d manhã e almoço no local.",
+      "contact": "luis_rodrigues@hotmail.com"
     }
   ]
 }
