@@ -1,0 +1,28 @@
+{
+  "announcement": [
+    {
+      "id": 1,
+      "title": "Service 1",
+      "description": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "contact": "email@test.com"
+    },
+    {
+      "id": 2,
+      "title": "Service 2",
+      "description": "Pão, bife de hambúrguer 90g, salada e batata.",
+      "contact": "559915445"
+    },
+    {
+      "title": "Service 3",
+      "description": "demo2",
+      "contact": "demo2",
+      "id": 3
+    },
+    {
+      "title": "Service 3",
+      "description": "demo2",
+      "contact": "demo2",
+      "id": 4
+    }
+  ]
+}
